@@ -78,7 +78,7 @@ if st.button('Show Recommend'):
 st.markdown(
     """
     <div class="footer">
-        <p>Developed by Ather Ahmed</p>
+        <p>Developed by ALI KHAN</p>
     </div>
     """,
     unsafe_allow_html=True
